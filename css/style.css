@@ -23,7 +23,7 @@ body {
 }
 /*==================================================*/
 
-/* ============ Contener da Esquerda ============== */
+/* ============ Container da Esquerda ============== */
 /* ================== 1 Container ================= */
 .instagram-wrapper {
     display: flex;
@@ -51,7 +51,7 @@ body {
 
 
 
-/* ============ Contener da Direita ============== */
+/* ============ Container da Direita ============== */
 /* ================== 2 Container ================= */
 .instagram-continue {
     display: flex;
